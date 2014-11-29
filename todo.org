@@ -1,0 +1,8 @@
+- [ ] add cljs test?
+- [ ] add routing (secretary?)
+- [ ] use garden for css https://github.com/noprompt/lein-garden
+- [ ] add i18n https://github.com/ptaoussanis/tower
+- [ ] add component & routes for rest interface
+- [ ] think about exposing config as a component
+- [ ] move sente client-side code to local vars
+- [ ] do not package cljs deps (26M with them)
